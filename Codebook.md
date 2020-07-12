@@ -1,6 +1,24 @@
 # GettingCleaningProject
 
-In this project below 3 files to check:
+
+I have used below variables:
+
+
+features
+activities
+subject_test
+x_test 
+y_test
+subject_train
+x_train 
+y_train 
+Merged_Data
+TidyData
+myLastTidyData
+
+
+
+In this project below 5 files to check:
 
 	1. README.md	------ Operations performed in the script
 	2. Codebook.md  ------ Information about files in project
